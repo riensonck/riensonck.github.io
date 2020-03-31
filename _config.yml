@@ -83,8 +83,8 @@ author:
   name             : "Rien Sonck"
   avatar           : "https://avatars0.githubusercontent.com/u/21556780?s=400&u=9f15302ec9b8da1420f7a27be07f77ca2109c3f4&v=4.jpg"
   bio              : "I'm a motivated and curious person, always ready to learn more. With a fast changing landscape it is important to keep up with new skills and trends. Being flexible and open to change are treasured skills. I have a passion for entrepeneurship, technology, and the inner workings of humans and animals."
-  location         : "Knokke-Heist"
-  employer         : "Ghent University and New York University Shanghai" 
+  location         : 
+  employer         : "UGent and NYUSH" 
   pubmed           : 
   googlescholar    : 
   email            : "rien.sonck@ugent.be" 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/riensonck/"
+  github           : "riensonck/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/riensonck/"
+  linkedin         : "riensonck/"
   orcid            : 
   pinterest        :
   soundcloud       :
