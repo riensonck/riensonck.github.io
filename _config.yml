@@ -82,9 +82,15 @@ analytics:
 author:
   name             : "Rien Sonck"
   avatar           : "https://avatars0.githubusercontent.com/u/21556780?s=400&u=9f15302ec9b8da1420f7a27be07f77ca2109c3f4&v=4.jpg"
-  bio              : "I'm a motivated and curious person, always ready to learn more. With a fast changing landscape it is important to keep up with new skills and trends. Being flexible and open to change are treasured skills. I have a passion for entrepeneurship, technology, and the inner workings of humans and animals."
+  bio              : >
+                     Research Intern at NYUSH and Master Student at UGent. 
+                     I'm a motivated and curious person, always ready to learn more. 
+                     With a fast changing landscape it is important to keep up with new skills and trends. 
+                     Being flexible and open to change are treasured skills. 
+                     I have a passion for entrepeneurship, technology, and the inner workings of humans and animals.
   location         : 
-  employer         : "UGent and NYUSH" 
+  employer         : "NYUSH, Shanghai"
+  employer         : "UGent, Ghent"  
   pubmed           : 
   googlescholar    : 
   email            : "rien.sonck@ugent.be" 
