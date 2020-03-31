@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Digipolis Programming Coach"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Workshop"
+#permalink: /teaching/2018-Digipolis-Workshop
+venue: "Elementary School, OLV Visitatie"
+date: 2018-03-27
+location: "Ghent, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Coding and 'computational thinking' are the skills of the future. CodeCity is an initiative from the city of Ghent and Digipolis to help children and young people to get acquainted with this. During this worrkshop, I helped 67 children (11-12 years old) to get acquainted with 'computational thinking'.
