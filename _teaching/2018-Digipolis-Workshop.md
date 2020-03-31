@@ -1,5 +1,5 @@
 ---
-title: "CodeCity Programming Coach"
+title: "CodeCity"
 collection: teaching
 type: "Volunteer Workshop"
 #permalink: /teaching/2018-Digipolis-Workshop
