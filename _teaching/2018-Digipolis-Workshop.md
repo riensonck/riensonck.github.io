@@ -3,7 +3,7 @@ title: "CodeCity"
 collection: teaching
 type: "Volunteer Workshop"
 #permalink: /teaching/2018-Digipolis-Workshop
-venue: "Elementary School: OLV Visitatie"
+venue: "Elementary School OLV Visitatie"
 date: 2018-03-27
 location: "Ghent, Belgium"
 ---
