@@ -13,7 +13,5 @@ CodeCity is an initiative from the city of Ghent and Digipolis to help children 
 ## Pictures
 
 ![CodeCity-Diploma](https://riensonck.github.io/images/Digipolis-Diploma-blur.jpg)
-
 ![Playful-Learning](https://riensonck.github.io/images/Digipolis-blur2.jpg)
-
 ![Classroom](https://riensonck.github.io/images/Digipolis-blur1.jpg)
