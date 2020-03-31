@@ -12,8 +12,8 @@ location: "Ghent, Belgium"
 
 ## Pictures
 
-![Diploma](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-Diploma-blur.jpg)
+![CodeCity-Diploma](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-Diploma-blur.jpg)
 
-![Coding](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-blur2.jpg)
+![Playful-Learning](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-blur2.jpg)
 
-![Diploma](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-blur1.jpg)
+![Classroom](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-blur1.jpg)
