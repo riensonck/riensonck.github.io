@@ -86,10 +86,8 @@ author:
                      Research Intern at NYUSH and Master Student at UGent. 
                      I'm a motivated and curious person, always ready to learn more.
                      I have a passion for entrepeneurship, technology, and the inner workings of humans and animals.
-  location         : 
-  employer         : >-
-                    NYUSH, Shanghai
-                    UGent, Ghent
+  location         : "NYUSH, Shanghai"
+  employer         : "UGent, Ghent"
   pubmed           : 
   googlescholar    : 
   email            : "rien.sonck@ugent.be" 
