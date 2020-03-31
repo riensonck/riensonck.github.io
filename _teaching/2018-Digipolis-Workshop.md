@@ -1,11 +1,19 @@
 ---
-title: "Digipolis Programming Coach"
+title: "CodeCity Programming Coach"
 collection: teaching
-type: "Workshop"
+type: "Volunteer Workshop"
 #permalink: /teaching/2018-Digipolis-Workshop
-venue: "Elementary School, OLV Visitatie"
+venue: "Elementary School: OLV Visitatie"
 date: 2018-03-27
 location: "Ghent, Belgium"
 ---
 
-Coding and 'computational thinking' are the skills of the future. CodeCity is an initiative from the city of Ghent and Digipolis to help children and young people to get acquainted with this. During this worrkshop, I helped 67 children (11-12 years old) to get acquainted with 'computational thinking'.
+[CodeCity](https://www.codecity.gent/over-codecity) is an initiative from the city of Ghent and Digipolis to help children to get acquainted with coding and computational thinking. During this workshop, I coached 67 children to playfully learn the basics of programming. 
+
+## Pictures
+
+![Diploma](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-Diploma-blur.jpg)
+
+![Coding](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-blur2.jpg)
+
+![Diploma](https://github.com/riensonck/riensonck.github.io/blob/master/images/Digipolis-blur1.jpg)
