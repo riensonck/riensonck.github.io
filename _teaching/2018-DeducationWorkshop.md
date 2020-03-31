@@ -11,5 +11,7 @@ location: "Ghent, Belgium"
 Was the first workshop given by the Deducation team, a learning and development (L&D) student initiative. 
 In this workshop we gave young professionals the change to participate in learning about decision-making techniques using digital skills. 
 
-Pictures
-======
+## Pictures
+
+![Deducation Workshop](https://riensonck.github.io/images/deducation-workshop.jpg)
+![Deducation Workshop](https://riensonck.github.io/images/deducation-workshop2.jpg)
