@@ -1,5 +1,5 @@
 ---
-title: "CodeCity"
+title: "CodeCity: Basics of Programming"
 collection: teaching
 type: "Volunteer Workshop"
 #permalink: /teaching/2018-Digipolis-Workshop
@@ -8,7 +8,7 @@ date: 2018-03-27
 location: "Ghent, Belgium"
 ---
 
-[CodeCity](https://www.codecity.gent/over-codecity) is an initiative from the city of Ghent and Digipolis to help children to get acquainted with coding and computational thinking. During this workshop, I coached 67 children to playfully learn the basics of programming. 
+CodeCity is an initiative from the city of Ghent and Digipolis to help children to get acquainted with coding and computational thinking. During this workshop, I coached 67 children to playfully learn the basics of programming. 
 
 ## Pictures
 
