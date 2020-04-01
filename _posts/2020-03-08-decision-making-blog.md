@@ -7,8 +7,6 @@ tags:
   - Decision-making
 ---
 
-Heeft het soort van informatiebron dat we gebruiken een invloed op hoe dat wij beslissingen nemen?
-======
   In ons dagelijkse leven nemen we elke dag kleine, maar ook grotere beslissingen. Voor dat we een beslissing maken, kunnen we informatiebronnen raadplegen die onze beslissingen kunnen helpen leiden. In wetenschappelijk onderzoek wordt een onderscheid gemaakt tussen twee categorieën van informatiebronnen: *beschrijving als een informatiebron* en *ervaring als een informatiebron*. Laten we het verschil tussen beide informatiebronnen duidelijk maken met het volgende voorbeeld:
   Het is dinsdag ochtend, je wordt wakker en je maakt je klaar om naar je school of werk te vertrekken. Aan de ontbijttafel lees je de weervoorspelling in de krant. Er staat dat er vandaag 30% kans op regen is; ga je een regenjas aandoen?
 Deze weervoorspelling is een beschrijvende informatiebron; het beschrijft de uitkomsten (regen of geen regen) en koppelt er percentages aan (30% kans op regen, 70% kans op geen regen). Wanneer je een beslissing maakt (een regenjas
