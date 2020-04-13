@@ -4,7 +4,7 @@ main:
   - title: "About me"
     url: 
 
-  - title: "Research Experiences"
+  - title: "Research"
     url: /research/
 
   - title: "My Skills"
@@ -13,7 +13,7 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Volunteer Experiences"
+  - title: "Volunteer"
     url: /volunteer/
 
   - title: "Blog Posts"
