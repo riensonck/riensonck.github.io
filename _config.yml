@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rien's Research Page"
+title                    : "Rien"
 title_separator          : "-"
 name                     : &name "Rien Sonck"
 description              : &description "personal description"

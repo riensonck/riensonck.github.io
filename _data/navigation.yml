@@ -1,10 +1,20 @@
 # main links links
 main:
-  - title: "Research"
+
+  - title: "About me"
+    url: 
+
+  - title: "Research Experiences"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "My Skills"
+    url: /skills/
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Volunteer Experiences"
+    url: /volunteer/
 
   - title: "Blog Posts"
     url: /year-archive/
