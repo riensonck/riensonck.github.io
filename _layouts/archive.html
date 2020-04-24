@@ -18,13 +18,6 @@ layout: default
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
-      {% if page.title == 'Research' %}
-        <p>Here you can see an overview of the research projects I am involved with.</br> 
-        You can click on a title for more detailed information on the project.</p>
-        <hr>
-      {% elsif page.title == 'Teaching' or page.title == 'CV'%}
-        <hr>
-      {% endif %}
     {% endunless %}
     {{ content }}
   </div>

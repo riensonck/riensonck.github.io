@@ -380,8 +380,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 	 	width: 100%;
 	 	margin-left:0em;
 	 	position:relative;
-	   margin-top: 2em;
-	 	margin-bottom:2em;
+	   margin-top: 1em;
+	 	margin-bottom:1em;
 	}
  }
 

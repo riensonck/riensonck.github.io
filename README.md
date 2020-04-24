@@ -10,13 +10,5 @@ This is forked from https://academicpages.github.io/, which was forked (then det
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-## Changes I added to the https://academicpages.github.io/
-
-1. Added a 'Research' page to list research one has done or is currently doing.
-1. Working on a markdown_generator for research.md files
-1. Changed the layout/design: 
-	- added an horizontal line to separate titles and content
-	- removed the sitemap and feed links in the footer
-	- replaced the CV content by an embedded cv.pdf 
 
 

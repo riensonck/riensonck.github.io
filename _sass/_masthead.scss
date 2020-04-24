@@ -46,8 +46,25 @@
   list-style-type: none;
   white-space: nowrap;
 
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+  @media (max-width: 924px) {
+    &--lg {
+      font-weight: 700;
+    }
   }
+
+  @media (min-width: 925px) {
+    &--lg {
+    padding-right: 8.5em;
+      font-weight: 700;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    &--lg {
+    padding-right: 12.5em;
+      font-weight: 700;
+    }
+  }
+
 }
+

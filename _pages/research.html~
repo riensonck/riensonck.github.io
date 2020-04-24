@@ -1,0 +1,141 @@
+--- 
+layout: archive 
+title: "Research" 
+permalink: /research/ 
+author_profile: true 
+---
+
+<hr>
+
+<!-- Research Work 1 -->
+
+<div style="margin-right: 2em;font-size: 1em;margin-bottom:1em;width:100%">
+      <h2><a href="https://www.cogcomneurosci.com/">Verguts Lab</a> (Ghent University)</h2>
+      
+     <div class = "research-logo">
+          <img src="/images/gent-university.png" class="logo">
+      </div>
+
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+      	 <p><b>Location:</b><br/>Ghent, Belgium</p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	 <p><b>Year:</b><br/>2018 - 2019</p>
+      </div>
+      <div class="clearfix"></div>
+      
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+          <p><b>Subject:</b><br/>Computational Synchrony<br/>Model of Cognitive Control</p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	<p><b>Role:</b><br/>Graduate Research<br/>Assistant</p>
+      </div>
+      <div class="clearfix"></div>
+      
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+      	<p><b>Team:</b>
+         <ul>
+         	<li>Rien Sonck </li>
+            <li><a href="https://users.ugent.be/~tverguts/Site/Home.html">Prof. Dr. Tom Verguts</a></li>
+            <li><a href="https://sites.google.com/site/senoussim/">Dr. Mehdi</a></li>
+         </ul>
+          </p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	<p><b>Code and Documents:</b>
+         	<ul>
+         		<li><a href="https://github.com/riensonck/sync-model">GitHub</a></li>
+         	</ul>
+         </p>
+      </div>
+		<div class="clearfix"></div>
+      <p style="text-align:justify;"><b>Description:</b><br/> Implementing flexibility mechanically has been a key computational issue in the cognitive control literature. To achieve this, Verguts (2017) developed a model of cognitive control based on oscillatory mechanisms. This model employs “binding by random bursts”, a combination of two principles, namely, communication-through-coherence and noise-induced synchronization. The aim of this project is to test whether oscillatory mechanisms responsible for connecting relevant representations also induce oscillations in behavioral performance. </p>
+</div>
+<hr>
+
+
+<!-- Research Work 2 -->
+
+<div style="margin-right: 2em;font-size: 1em;margin-bottom:1em;width:100%">
+      <h2><a href="https://erlichlab.org/">Erlich Lab</a> (New York University Shanghai)</h2>
+      
+     <div class = "research-logo">
+          <img src="/images/NYU_Shanghai_Logo.jpg" class="logo">
+      </div>
+
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+      	 <p><b>Location:</b><br/>Shanghai, China</p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	 <p><b>Year:</b><br/>2018 - 2019</p>
+      </div>
+      <div class="clearfix"></div>
+      
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+          <p><b>Subject:</b><br/>Description-Experience Gap:<br/> Animals and Humans</p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	<p><b>Role:</b><br/>Research Intern</p>
+      </div>
+      <div class="clearfix"></div>
+      
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+      	<p><b>Team:</b>
+         <ul>
+         	<li>Rien Sonck </li>
+            <li><a href="https://shanghai.nyu.edu/academics/faculty/directory/jeffrey-erlich">Prof. Dr. Jeffrey Erlich</a></li>
+            <li><a href="https://shanghai.nyu.edu/academics/faculty/directory/evgeniya-lukinova">Dr. Evgeniya Lukinova</a></li>
+         </ul>
+          </p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	<p><b>Code and Documents:</b>
+         	<ul>
+         		<li>GitHub: Coming soon</li>
+         	</ul>
+         </p>
+      </div>
+		<div class="clearfix"></div>
+      <p style="text-align:justify;"><b>Description:</b><br/> The aim of this study is to investigate similarities and differences in decision-making across species. For this we developed a risk-non- verbal task, adapted from Lukinova et al. (2019) delay non-verbal task. The task mirrors the training procedure used with rodents in the Erlich's lab.</p>
+</div>
+<hr>
+
+
+<!-- Research Work 3 -->
+<!-- Research Work 1 -->
+
+<div style="margin-right: 2em;font-size: 1em;margin-bottom:1em;width:100%">
+      <h2><a href="https://www.ugent.be/pp/ekgp/en/research/research-groups/panlab">PAN lab</a> (Ghent University)</h2>
+      
+     <div class = "research-logo">
+          <img src="/images/gent-university.png" class="logo">
+      </div>
+
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+      	 <p><b>Location:</b><br/>Ghent, Belgium</p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	 <p><b>Year:</b><br/>2016 - 2017</p>
+      </div>
+      <div class="clearfix"></div>
+      
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+          <p><b>Subject:</b><br/>Neural Correlates of<br/>Exclusion in Transgenders</p>
+      </div>
+      <div style="width: 40%; float:left;margin-bottom:-1em;">
+      	<p><b>Role:</b><br/>Undergraduate Research<br/>Assistant</p>
+      </div>
+      <div class="clearfix"></div>
+      
+      <div style="width: 40%; float:left;margin-right: 1em;margin-bottom:-1em;">
+      	<p><b>Team:</b>
+         <ul>
+         	<li>Rien Sonck </li>
+            <li><a href="https://scholar.google.com/citations?user=pFw40H0AAAAJ&hl=en">Prof. Dr. Ernst Koster</a></li>
+            <li><a href="https://scholar.google.com/citations?user=LZCVwqIAAAAJ&hl=en">Prof. Dr. Sven Muller</a></li>
+         </ul>
+          </p>
+      </div>
+		<div class="clearfix"></div>
+      <p style="text-align:justify;"><b>Description:</b><br/> My first experience with helping out in a research lab. Prof. Dr. Sven Müler tried to find neural correlates (using fMRI) of exclusion in transgenders. I helped with the fMRI analysis using SPSS. </p>
+ </div>
