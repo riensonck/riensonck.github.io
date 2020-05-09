@@ -52,7 +52,7 @@ author_profile: true
       <p style="text-align:justify;"><b>Description:</b><br/> Implementing flexibility mechanically has been a key computational issue in the cognitive control literature. 
       To achieve this, Verguts (2017) developed a model of cognitive control based on oscillatory mechanisms. This model employs “binding by random bursts”, 
       a combination of two principles, namely, communication-through-coherence and noise-induced synchronisation. 
-      The aim of this project is to investigate the behavioural consequences of oscillatory mechanisms in the brain.</p>
+      The aim of this project is to investigate the behavioural consequences of oscillatory mechanisms in the model.</p>
 </div>
 <hr>
 
