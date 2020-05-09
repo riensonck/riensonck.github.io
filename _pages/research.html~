@@ -49,7 +49,10 @@ author_profile: true
          </p>
       </div>
 		<div class="clearfix"></div>
-      <p style="text-align:justify;"><b>Description:</b><br/> Implementing flexibility mechanically has been a key computational issue in the cognitive control literature. To achieve this, Verguts (2017) developed a model of cognitive control based on oscillatory mechanisms. This model employs “binding by random bursts”, a combination of two principles, namely, communication-through-coherence and noise-induced synchronization. The aim of this project is to test whether oscillatory mechanisms responsible for connecting relevant representations also induce oscillations in behavioral performance. </p>
+      <p style="text-align:justify;"><b>Description:</b><br/> Implementing flexibility mechanically has been a key computational issue in the cognitive control literature. 
+      To achieve this, Verguts (2017) developed a model of cognitive control based on oscillatory mechanisms. This model employs “binding by random bursts”, 
+      a combination of two principles, namely, communication-through-coherence and noise-induced synchronisation. 
+      The aim of this project is to investigate the behavioural consequences of oscillatory mechanisms in the brain.</p>
 </div>
 <hr>
 
@@ -96,13 +99,12 @@ author_profile: true
          </p>
       </div>
 		<div class="clearfix"></div>
-      <p style="text-align:justify;"><b>Description:</b><br/> The aim of this study is to investigate similarities and differences in decision-making across species. For this we developed a risk-non- verbal task, adapted from Lukinova et al. (2019) delay non-verbal task. The task mirrors the training procedure used with rodents in the Erlich's lab.</p>
+      <p style="text-align:justify;"><b>Description:</b><br/> The aim of this study is to investigate similarities and differences in decision-making across species. For this my lab developed a risk-non- verbal task, adapted from Lukinova et al. (2019) delay non-verbal task. The task mirrors the training procedure used with rodents in Erlich's lab.</p>
 </div>
 <hr>
 
 
 <!-- Research Work 3 -->
-<!-- Research Work 1 -->
 
 <div style="margin-right: 2em;font-size: 1em;margin-bottom:1em;width:100%">
       <h2><a href="https://www.ugent.be/pp/ekgp/en/research/research-groups/panlab">PAN lab</a> (Ghent University)</h2>
@@ -136,6 +138,6 @@ author_profile: true
          </ul>
           </p>
       </div>
-		<div class="clearfix"></div>
-      <p style="text-align:justify;"><b>Description:</b><br/> My first experience with helping out in a research lab. Prof. Dr. Sven Müler tried to find neural correlates (using fMRI) of exclusion in transgenders. I helped with the fMRI analysis using SPSS. </p>
+		<div class="clearfix"></div> 
+      <p style="text-align:justify;"><b>Description:</b><br/> Assisting Prof. Dr. Sven Müler in his lab was my first experience in aiding research and gaining hands on experience in a lab. Prof. Dr. Sven Müler tried to find neural correlates (using fMRI) of exclusion in transgenders and I helped him  with the fMRI analysis using SPSS. </p>
  </div>
