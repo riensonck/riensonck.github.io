@@ -12,13 +12,12 @@ author_profile: true
    <img src="/images/python.png" class="logo"/>
    <p><b>Most used for:</b> 
     <ul>
-	<li>Experimental Design (psychopy)</li>
-	<li>Computational Modeling</li>
+	<li>Experimental Design (Psychopy)</li>
+	<li>Cognitive Modeling</li>
 	<li>EEG Analysis (MNE)</li>
-	<li>Machine Learning (scikit-learn)</li>
     </ul></p>
    <p><b>Example code:</b> 
-	<a href="https://github.com/riensonck/BCI2020/blob/master/Scripts/BCI-Analysis.py">See here</a></p> 
+	<a href="https://github.com/riensonck/sync-model/blob/master/Model/Sync-Model.py">See here</a></p> 
    <p><b>Certificate:</b>
 	<a href="https://www.udemy.com/certificate/UC-CXKBMYDB/">See here</a> </p> 
  </div>
@@ -28,10 +27,10 @@ author_profile: true
    <img src="/images/R.png" class="logo"/>
    <p><b>Most used for:</b> 
     <ul>
-	<li>Data-analysis</li>
+	<li>General Data-analysis</li>
     </ul></p>
    <p><b>Example code:</b> 
-	<a href="https://github.com/riensonck/sync-model/blob/master/Scripts/Sync-Model-Analysis.R">See here</a></p> 
+	<a href="https://github.com/riensonck/sync-model/blob/master/Analysis/Sync-Model-Analysis.R">See here</a></p> 
  </div>
 
 <div style="clear:both;"></div> 
