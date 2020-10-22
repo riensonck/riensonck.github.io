@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-	<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://riensonck.github.io/files/cv_rien_sonck.pdf" width="500" height="375" type="application/pdf">
+	<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://riensonck.github.io/files/cv_rien_sonck.pdf" width="500" height="375" type="application/pdf"></iframe> 
 
