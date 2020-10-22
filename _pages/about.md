@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Rien, a master's student and an apprentice (neuro)cognitive scientist. 
-I have a passion for entrepeneurship, technology and doing research. 
+I'm Rien, a a recent master of science graduate and an apprentice (neuro)cognitive scientist. 
+I have a passion for neurotechnology, brain-computer interfaces (BCIs), applied science, data science, and entrepreneurship.
 I'm curious about the human brain and I am always ready to learn more. 
-My main research interests include: 
-*Brain-computer Interfaces (BCI)*, *Cognitive Modeling* and *Cognitive Enhancement*. 
-
-
-
 
 
 
